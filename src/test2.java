@@ -5,6 +5,7 @@ public class test2 {
 		// TODO Auto-generated method stub
 		////////good job
 		///////comment 3
+		/////comment by tester
 
 	}
 
