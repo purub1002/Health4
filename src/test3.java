@@ -9,6 +9,7 @@ public class test3 {
 		///Hello
 		//Hello in git BranchX
 		///What's up git. Happy practice.
+		///New comment in git.
 
 	}
 
