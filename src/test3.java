@@ -8,8 +8,7 @@ public class test3 {
 		/////////What's up.
 		///Hello
 		//Hello in git BranchX
-		///What's up git. Happy practice.
-		///New comment in git.
+		///Github commit.
 
 	}
 
