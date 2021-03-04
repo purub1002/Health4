@@ -9,7 +9,9 @@ public class test3 {
 		///Hello
 		//Hello in git BranchX
 		///Github commit.
-		int x = 5;
+
+		int y = 100;
+
 
 	}
 
