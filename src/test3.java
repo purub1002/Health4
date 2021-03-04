@@ -8,6 +8,7 @@ public class test3 {
 		/////////What's up.
 		///Hello
 		//Hello in git BranchX
+		//Update to create conflict test.
 
 	}
 
